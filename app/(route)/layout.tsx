@@ -1,5 +1,5 @@
 import RightSidebar from "@/components/shared/RightSidebar";
-import LeftSidebar from "@/components/shared/leftSidebar";
+import LeftSidebar from "@/components/shared/LeftSidebar";
 import Navbar from "@/components/shared/navabar/Navbar";
 import React from "react";
 

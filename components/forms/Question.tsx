@@ -172,7 +172,7 @@ const Question = () => {
                       {field.value.map((tag: any) => (
                         <Badge
                           key={tag}
-                          className="subtle-medium background-light400_light500 flex items-center justify-center gap-2 rounded-md border-none px-5 py-2 capitalize"
+                          className="subtle-medium background-light900_dark300 flex items-center justify-center gap-2 rounded-md border-none px-5 py-2 capitalize"
                           onClick={() => handleTagRemove(tag, field)}
                         >
                           {tag}
